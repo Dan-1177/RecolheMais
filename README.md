@@ -1,2 +1,0 @@
-# RecolheMais
-Projeto de Integrador
